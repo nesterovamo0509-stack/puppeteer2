@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "bdd": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesterovamo0509-stack/puppeteer2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nesterovamo0509-stack/puppeteer2/issues"
+  },
+  "homepage": "https://github.com/nesterovamo0509-stack/puppeteer2#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.8.3",
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.1.0",
+    "puppeteer": "^24.43.0"
+  }
+}
